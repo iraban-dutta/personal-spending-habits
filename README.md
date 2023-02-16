@@ -22,22 +22,22 @@ For this project we have analysed the transactions from a single bank A/C (which
   - Which category records:
     - the highest number of transactions?
     - the maximum total amount debited across all transactions?
-  - Do we tend to use a particular payment method for a particular category?
+  - Do we tend to use a particular payment mode for a particular category?
   - Can we identify ouliers in our debit transactions?
   - What can we comment on the median transaction amount:
     - across all transactions?
     - across different transaction modes and categories?
 - **Temporal trend of debit transactios:**
   - YoY & MoM spending
-  - Classifying categories into Daily Needs and Daily Wants
+  - Classifying categories into daily needs and daily wants
   - ***Needs:***
-    - YoY spending on needs?
+    - YoY spending on needs.
     - Which categories in daily needs have the highest expenditure?
-    - What are the different insurance products which we own and how much are we spending on them?
+    - What are the different insurance products we own and how much are we spending on them?
     - What modes of public transport do we use?
     - What is the median number of days we wait before getting successive haircuts?
   - ***Wants:***
-    - YoY spending on wants?
+    - YoY spending on wants.
     - Which categories in daily wants have the highest expenditure?
     - Do we tend to spend more on our wants across specific months in a year? Does the festival season in India have any impact on this?
     - Which are the our popular retail outlets?
@@ -47,10 +47,10 @@ For this project we have analysed the transactions from a single bank A/C (which
     
 ## Tableau Dashboard:
 - The dasboard summarizes our spending habits across:
-  - Year
-  - Transaction modes
-  - Transaction categories
-  - Total number of transactions, total amount spent, median, maximum and minimum amount are also shown
+  - Year.
+  - Transaction modes.
+  - Transaction categories.
+  - Total number of transactions, total amount spent, median, maximum and minimum amount are also shown.
 - Filter action:
   - We can individually filter on the basis of year, transaction mode, transaction category or any of these combinations and the dashboard reacts accordingly.
   - We show a needs vs wants split for our selection.
